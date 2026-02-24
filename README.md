@@ -2,7 +2,7 @@
 
 7thMenu is a Paper plugin that gives players one central menu for travel, social tools, store access, and onboarding. It is built for Java + Bedrock mixed servers and is configurable through `config.yml`.
 
-## What A Buyer Gets
+## What is it
 
 - One `/menu` hub for common server actions.
 - Java inventory UI plus Bedrock form/chat UI support.
